@@ -1,4 +1,4 @@
-package enunStudy;
+package enumStudy;
 
 public class EnumExp {
 	public static void main(String[] args) {

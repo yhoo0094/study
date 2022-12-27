@@ -1,4 +1,4 @@
-package enunStudy;
+package enumStudy;
 
 public class FruitClass {
     public static final FruitClass APPLE  = new FruitClass("APPLE", "RED");

@@ -1,4 +1,4 @@
-package enunStudy;
+package enumStudy;
 
 public enum Fruit {
     APPLE("red"), PEACH("pink"), BANANA("yellow");
